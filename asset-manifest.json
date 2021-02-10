@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ra-components-func/static/css/main.0605edfe.chunk.css",
+    "main.js": "/ra-components-func/static/js/main.e56dd1b9.chunk.js",
+    "main.js.map": "/ra-components-func/static/js/main.e56dd1b9.chunk.js.map",
+    "runtime-main.js": "/ra-components-func/static/js/runtime-main.629c4d4c.js",
+    "runtime-main.js.map": "/ra-components-func/static/js/runtime-main.629c4d4c.js.map",
+    "static/js/2.2d104577.chunk.js": "/ra-components-func/static/js/2.2d104577.chunk.js",
+    "static/js/2.2d104577.chunk.js.map": "/ra-components-func/static/js/2.2d104577.chunk.js.map",
+    "static/js/3.405dbf88.chunk.js": "/ra-components-func/static/js/3.405dbf88.chunk.js",
+    "static/js/3.405dbf88.chunk.js.map": "/ra-components-func/static/js/3.405dbf88.chunk.js.map",
+    "index.html": "/ra-components-func/index.html",
+    "static/css/main.0605edfe.chunk.css.map": "/ra-components-func/static/css/main.0605edfe.chunk.css.map",
+    "static/js/2.2d104577.chunk.js.LICENSE.txt": "/ra-components-func/static/js/2.2d104577.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ra-components-func/static/media/item-blue.2103f69b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.629c4d4c.js",
+    "static/js/2.2d104577.chunk.js",
+    "static/css/main.0605edfe.chunk.css",
+    "static/js/main.e56dd1b9.chunk.js"
+  ]
+}
